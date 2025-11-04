@@ -1,7 +1,7 @@
-||animeid2.com^
-||magistv.com^
-||animeflv.net^
-||jkanime.net^
-||animeyt.net^
-||tioanime.com^
-||nekoanime.mx^
+animeid2.com
+magistv.com
+animeflv.net
+jkanime.net
+animeyt.net
+tioanime.com
+nekoanime.mx
